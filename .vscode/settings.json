@@ -1,0 +1,7 @@
+{
+    "github.copilot.chat.codeGeneration.instructions": [
+        {
+            "file": "hanja_rules.md"
+        }
+    ]
+}
